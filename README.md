@@ -1,4 +1,4 @@
-# Project Name
+# Primo Test
 
 This is a project for demonstrating a merge sort implementation in TypeScript.
 
